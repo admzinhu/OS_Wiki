@@ -10,7 +10,7 @@ There´s no fake info here. If it is, report me as soon as possible, for better 
 The goal it´s make a 100% reliable wiki for everyone, made by me and everyone which had made them contributions.
 
 # Why i want to do this
-I love technology, especially how operating systems and general hardware work. I believe that by having reliable and easy-to-understand information, we can organize ourselves and study this subject even further. I'm so restless about it that in school, I would write down documentation for Linux distributions in my notebook during class. I wrote more about Arch Linux than Paul wrote in the Bible. So I think storing this knowledge online can help me and everyone with similar needs. And this wiki can be easy to use because we can unify every single documentation of every operational system in one place, all together.
+I love technology, especially how operating systems and general hardware work. I believe that by having reliable and easy-to-understand information, we can organize ourselves and study this subject even further. I'm so restless about it that in school, I was writing down documentation for Linux distributions in my notebook during class. I wrote more about Arch Linux than Paul wrote in the Bible. So I think storing this knowledge online can help me and everyone with similar needs. And this wiki can be easy to use because we can unify every single documentation of every operational system in one place, all together.
 
 # Enjoy this wiki, and use it with happiness! 100% free and no licenses! Knowledge it´s free for all!
 
