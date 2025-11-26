@@ -1,0 +1,18 @@
+# Arch Linux Documentation - OS_Wiki
+
+System Name: Arch Linux
+Kernel: Linux (Rolling release, latest kernel)
+Based on: Nothing (independent)
+Created by: Judd Vinet (initially for i686 arch)
+Maintained by: Arch Linux Community
+Initial release: 2002
+Source model: Open source
+License: GPL/0BSD
+Architecture support: x86_64 (amd64) official support. Unofficial support with ARM and i686 (32-bit)
+Package manager: Pacman (Binary), created by Judd Vinet
+Desktop Environment: Any (CLI install)
+System type: Desktop
+Target audience: Advanced users, power users, rolling release enthusiasts and technology students.
+Not recommended for: begginer people that use Windows or don´t have experience with computers, those who want something ready-made and plug-and-play.
+Official site: https://archlinux.org/
+ISO size for download: 1,4 GB
