@@ -14,4 +14,7 @@ I love technology, especially how operating systems and general hardware work. I
 
 # Enjoy this wiki, and use it with happiness! 100% free and no licenses! Knowledge it´s free for all!
 
-# Things will be finished soon, i ain´t started yet!
+# Things will be finished soon :)
+
+# I already made:
+Arch Linux documentation (25/11/2025) (English) (Take this by example)
