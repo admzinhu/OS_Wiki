@@ -1,0 +1,26 @@
+Ubuntu Documentation - OS_Wiki
+
+System Name: Ubuntu
+Kernel: Linux (monolithic kernel)
+Based on: Debian
+Created by: Mark Shuttleworth / Canonical Ltd.
+Maintained by: Canonical Ltd. and the Ubuntu community
+Initial release: October 20, 2004
+Source model: Open source
+License: Mainly GPL and other free software licenses (with some optional proprietary components)
+Architecture support: x86_64 (64-bit official), ARM (32-bit and 64-bit for Raspberry Pi and servers), limited IA-32 (32-bit legacy support)
+Package manager: APT (dpkg), supported via Software Center, Snap, and Flatpak
+Desktop Environment: GNOME (default), optionally KDE (Kubuntu), Xfce (Xubuntu), LXQt (Lubuntu), MATE, Budgie
+System type: Desktop / Server / Workstation
+Target audience: Beginners to Linux, home users, enterprise environments, developers, server administrators
+Not recommended for: Users seeking rolling-release updates or extreme customization; very old hardware without 32-bit or ARM support
+Official site: https://www.ubuntu.com
+ISO size for download: ~2.5 GB (varies by edition and desktop environment)
+Minimum requirements:
+- CPU: 2 GHz dual-core processor
+- RAM: 4 GB (minimum); 8 GB recommended for smooth GUI performance
+- Storage: 25 GB free disk space (minimum)
+- Graphics: capable of 1024×768 resolution
+- Architecture: 64-bit processor (main editions); ARM or IA-32 for specific builds
+
+Description: Ubuntu is a widely-used, open-source Linux distribution based on Debian. It aims for ease of use and stability, providing a polished desktop environment and extensive hardware support. Ubuntu offers multiple official flavors with different desktop environments, making it flexible for personal, educational, and enterprise use. The distribution uses APT for package management and includes Snap and Flatpak support for additional software. It is suitable for beginners and experienced Linux users alike.
