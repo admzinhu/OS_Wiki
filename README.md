@@ -18,3 +18,4 @@ I love technology, especially how operating systems and general hardware work. I
 
 # I already made:
 Arch Linux documentation (25/11/2025) (English) (Take this by example)
+Windows 11 (27/11/2025) (English)
