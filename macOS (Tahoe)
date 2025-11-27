@@ -8,12 +8,12 @@ Maintained by: Apple Inc.
 Initial release: September 15, 2025  
 Source model: Closed source (proprietary)  
 License: Apple Software License  
-Architecture support: Apple Silicon (ARM‑based Macs); limited support for a few Intel-based Macs (last Intel-compatible release) :contentReference[oaicite:1]{index=1}  
+Architecture support: Apple Silicon (ARM‑based Macs); limited support for a few Intel-based Macs (last Intel-compatible release) 
 Package manager / App distribution: Mac App Store, Apple Software Update  
 Desktop Environment: macOS graphical environment (window manager, Dock, Finder, etc.)  
 System type: Desktop / Workstation  
 Target audience: Users of Mac computers — home users, professionals, creators, developers, and general macOS users.  
-Not recommended for: Macs not listed in compatibility list (unsupported hardware), users requiring suporte full Intel compatibility beyond listed models. :contentReference[oaicite:2]{index=2}  
+Not recommended for: Macs not listed in compatibility list (unsupported hardware), users requiring suporte full Intel compatibility beyond listed models.
 Official site: https://www.apple.com/macos/tahoe/  
 ISO size for download: varies by distribution method (update size depends on prior system; full installer size may vary)  
 Minimum requirements:
