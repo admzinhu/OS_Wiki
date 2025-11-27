@@ -24,3 +24,13 @@ Windows 11 (27/11/2025) (English)
 macOS Tahoe (27/11/2025) (English)
 
 Linux Mint (27/11/2025) (English)
+
+Ubuntu Linux (27/11/2025) (English)
+
+Debian Linux (27/11/2025) (English)
+
+QubesOS Linux (27/11/2025) (English)
+
+TempleOS (27/11/2025) (English)
+
+Void Linux (27/11/2025) (English)
