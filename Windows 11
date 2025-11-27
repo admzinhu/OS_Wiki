@@ -9,11 +9,20 @@ Initial release: October 5, 2021
 Source model: Closed source (proprietary)
 License: Microsoft Commercial Software License
 Architecture support: x86_64 (64-bit) only; no official 32-bit edition
-Package manager: Microsoft Store / Winget (Windows Package Manager)
+Package manager: Microsoft Store; optional Windows Package Manager (Winget)
 Desktop Environment: Windows Shell (Fluent Design)
 System type: Desktop / Workstation
 Target audience: General users, home users, enterprise environments, gamers, and creators.
-Not recommended for: Very old hardware, devices without TPM 2.0, or users who prefer fully open-source systems.
+Not recommended for: Very old hardware, devices without TPM 2.0 / Secure Boot / UEFI, or users who prefer fully open-source systems.
 Official site: https://www.microsoft.com/windows
-ISO size for download: ~5 GB (varies by edition and release)
-Description: Windows 11 is a proprietary operating system developed by Microsoft as the successor to Windows 10. It features a redesigned interface using the Fluent Design language, a centered taskbar, and improved window management through Snap Layouts and Snap Groups. Windows 11 requires modern hardware, including TPM 2.0 and Secure Boot. It includes the Microsoft Store and supports the Windows Subsystem for Linux (WSL) and Android app compatibility through the Amazon Appstore on supported builds.
+ISO size for download: varies by edition (typically a few GBs)
+Minimum requirements:
+- CPU: 1 GHz or faster with 2 or more cores on a compatible 64-bit processor
+- RAM: 4 GB
+- Storage: 64 GB or more
+- Firmware: UEFI, Secure Boot capable
+- TPM: Version 2.0
+- Graphics: DirectX 12 compatible graphics / WDDM 2.x
+- Display: >9" with HD Resolution (720p)
+
+Description: Windows 11 is a proprietary operating system developed by Microsoft as the successor to Windows 10. It features a redesigned interface using Fluent Design, a centered taskbar, and improved window management with Snap Layouts and Snap Groups. Windows 11 requires modern hardware, including TPM 2.0, Secure Boot, and UEFI firmware. It includes the Microsoft Store and supports the Windows Subsystem for Linux (WSL). Support for Android apps via the Amazon Appstore and Windows Subsystem for Android is deprecated and will be discontinued in March 2025.
