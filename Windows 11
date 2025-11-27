@@ -1,0 +1,19 @@
+Windows 11 Documentation - OS_Wiki
+
+System Name: Windows 11
+Kernel: Windows NT (NT 10.0)
+Based on: Windows NT family
+Created by: Microsoft
+Maintained by: Microsoft
+Initial release: October 5, 2021
+Source model: Closed source (proprietary)
+License: Microsoft Commercial Software License
+Architecture support: x86_64 (64-bit) only; no official 32-bit edition
+Package manager: Microsoft Store / Winget (Windows Package Manager)
+Desktop Environment: Windows Shell (Fluent Design)
+System type: Desktop / Workstation
+Target audience: General users, home users, enterprise environments, gamers, and creators.
+Not recommended for: Very old hardware, devices without TPM 2.0, or users who prefer fully open-source systems.
+Official site: https://www.microsoft.com/windows
+ISO size for download: ~5 GB (varies by edition and release)
+Description: Windows 11 is a proprietary operating system developed by Microsoft as the successor to Windows 10. It features a redesigned interface using the Fluent Design language, a centered taskbar, and improved window management through Snap Layouts and Snap Groups. Windows 11 requires modern hardware, including TPM 2.0 and Secure Boot. It includes the Microsoft Store and supports the Windows Subsystem for Linux (WSL) and Android app compatibility through the Amazon Appstore on supported builds.
