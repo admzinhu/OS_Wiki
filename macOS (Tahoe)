@@ -1,0 +1,25 @@
+macOS Tahoe Documentation - OS_Wiki
+
+System Name: macOS Tahoe
+Kernel: XNU (hybrid kernel)
+Based on: Darwin / UNIX  
+Created by: Apple Inc.  
+Maintained by: Apple Inc.  
+Initial release: September 15, 2025  
+Source model: Closed source (proprietary)  
+License: Apple Software License  
+Architecture support: Apple Silicon (ARM‑based Macs); limited support for a few Intel-based Macs (last Intel-compatible release) :contentReference[oaicite:1]{index=1}  
+Package manager / App distribution: Mac App Store, Apple Software Update  
+Desktop Environment: macOS graphical environment (window manager, Dock, Finder, etc.)  
+System type: Desktop / Workstation  
+Target audience: Users of Mac computers — home users, professionals, creators, developers, and general macOS users.  
+Not recommended for: Macs not listed in compatibility list (unsupported hardware), users requiring suporte full Intel compatibility beyond listed models. :contentReference[oaicite:2]{index=2}  
+Official site: https://www.apple.com/macos/tahoe/  
+ISO size for download: varies by distribution method (update size depends on prior system; full installer size may vary)  
+Minimum requirements:
+- Supported Mac model (Apple Silicon or one of the compatible Intel-based Macs) :contentReference[oaicite:3]{index=3}  
+- Sufficient free storage (space depends on update/installation method and existing data)  
+- Firmware requirements: UEFI / Mac firmware (as per Apple hardware compatibility)  
+- Other hardware as specified by Apple for supported Macs  
+
+Description: macOS Tahoe is the latest major version of Apple’s macOS, released on September 15, 2025. It introduces a redesigned interface under the “Liquid Glass” design language, updated UI elements, and enhancements in user experience. macOS Tahoe maintains support for Apple Silicon Macs and — for the last time in macOS history — a limited set of Intel-based Macs. It continues Apple’s tradition of integrating tightly with Apple hardware and services, offering a polished, stable, and modern desktop operating system for Mac users.
