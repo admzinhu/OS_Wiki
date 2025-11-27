@@ -16,3 +16,6 @@ Target audience: Advanced users, power users, rolling release enthusiasts and te
 Not recommended for: begginer people that use Windows or don´t have experience with computers, those who want something ready-made and plug-and-play.
 Official site: https://archlinux.org/
 ISO size for download: 1,4 GB
+Description: Independent Linux distribution, created initially by Judd Vinet. Installation is done manually using only the terminal (command line). 
+It is recommended for users who want to build a system completely made by themselves and highly customizable. It follows the KISS and DIY philosophies, which stand for, respectively, Keep It Simple Stupid and Do It Yourself. 
+Uses Pacman as a binary package manager. It doesn't have a default desktop environment, as the installation is done from scratch via terminal, so it's up to you to decide.
