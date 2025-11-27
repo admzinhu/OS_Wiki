@@ -16,6 +16,13 @@ Target audience: Advanced users, power users, rolling-release enthusiasts, and t
 Not recommended for: Beginners, people coming from Windows with no computer experience, and those who want a ready-made, plug-and-play system.
 Official site: https://archlinux.org/
 ISO size for download: ~1.4 GB (latest version)
+Minimum requirements:
+- CPU: x86_64-compatible processor
+- RAM: 512 MB (minimum); 2 GB recommended for a smooth system with GUI
+- Storage: 2 GB minimum for base installation (more required depending on desktop environment)
+- Boot: UEFI or BIOS supported
+- Network: Internet connection recommended for installation (packages downloaded online)
+
 Description: Arch Linux is an independent Linux distribution, originally created by Judd Vinet. Installation is performed manually using only the terminal (command line).
 It is recommended for users who want to build a fully customized system by themselves. Arch follows the KISS and DIY philosophies, which stand for Keep It Simple, Stupid and Do It Yourself, respectively.
 It uses Pacman as its binary package manager. It does not have a default desktop environment, as installation is done from scratch via the terminal — the choice is up to the user.
