@@ -1,0 +1,26 @@
+Linux Mint Documentation - OS_Wiki
+
+System Name: Linux Mint
+Kernel: Linux (monolithic kernel)
+Based on: Ubuntu (main edition) or Debian (LMDE edition)
+Created by: Clément Lefèbvre and the Linux Mint Team / community
+Maintained by: Linux Mint Team and community
+Initial release: August 27, 2006
+Source model: Open source
+License: Mainly GPL and other free software licenses (with some optional proprietary components)
+Architecture support: x86_64 (64-bit official); LMDE editions also support IA‑32 (32-bit) in certain releases
+Package manager: APT (dpkg), supported via Software Manager, Update Manager, Synaptic; also supports Flatpak
+Desktop Environment: Cinnamon (default), optionally MATE or Xfce
+System type: Desktop / Workstation
+Target audience: Users seeking a user-friendly, stable, ready-to-use Linux desktop; beginners migrating from Windows; general desktop users; home users; productivity and multimedia users.
+Not recommended for: Very old hardware without 64‑bit support or PAE (on older releases), users needing a rolling‑release distro, users needing the absolute latest kernel/app versions or enterprise‑grade server setups.
+Official site: https://www.linuxmint.com
+ISO size for download: varies by edition (typically ~1.6‑2 GB, depending on desktop environment)
+Minimum requirements:
+- CPU: 1 GHz (64-bit processor)  
+- RAM: 2 GB (minimum; 4 GB recommended for comfortable use with GUI)  
+- Storage: 20 GB free disk space (or more, depending on use and installed apps)  
+- Graphics: any GPU with drivers (sufficient for desktop), monitor resolution 1024×768 or higher  
+- Architecture: 64‑bit CPU (for main editions)  
+
+Description: Linux Mint is a community-driven, user-friendly Linux distribution designed to offer a stable, ready-to-use desktop operating system. It is based on Ubuntu (or Debian in the LMDE edition) and comes by default with a polished desktop environment (Cinnamon), along with easy-to-use tools for software installation, updates, and system maintenance. Linux Mint bundles a selection of free and open-source applications out-of-the-box, aiming for a balance of usability, performance, and stability. It supports a wide range of hardware (provided basic 64-bit requirements), and offers multiple desktop environments so users can choose the interface that best fits their preferences. Pelo fato de ser “pronto para uso”, é frequentemente recomendado para quem está migrando de sistemas proprietários ou busca uma distro Linux prática e estável.
