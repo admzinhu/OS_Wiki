@@ -1,0 +1,26 @@
+Void Linux Documentation - OS_Wiki
+
+System Name: Void Linux
+Kernel: Linux (monolithic kernel)
+Based on: Independent
+Created by: Juan Romero Pardines
+Maintained by: Void Linux community
+Initial release: 2008
+Source model: Open source
+License: Mainly GPL and other free software licenses
+Architecture support: x86_64, i686, ARM (aarch64, armv7)
+Package manager: XBPS (X Binary Package System)
+Desktop Environment: Any (CLI installation; commonly used with XFCE, LXQt, MATE, Cinnamon, or others)
+System type: Desktop / Server / Workstation
+Target audience: Advanced users, Linux enthusiasts, rolling-release users, DIY system builders
+Not recommended for: Beginners without Linux experience, users seeking plug-and-play desktop with preinstalled software
+Official site: https://voidlinux.org
+ISO size for download: ~700 MB – 1.5 GB (depending on edition and desktop)
+Minimum requirements:
+- CPU: x86_64-compatible processor
+- RAM: 256 MB minimum (1 GB recommended for GUI)
+- Storage: 2 GB minimum for base system (more for desktop environment and applications)
+- Boot: BIOS or UEFI supported
+- Network: Internet connection recommended for installation and updates
+
+Description: Void Linux is an independent, rolling-release Linux distribution designed for experienced users who want full control over their system. It uses the XBPS package manager and can be installed from minimal command-line ISOs, allowing users to build a fully customized operating system. Void Linux offers various desktop environments but does not include a default DE. Its rolling-release model ensures that software stays up to date while maintaining system stability.
