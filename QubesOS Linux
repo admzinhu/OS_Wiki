@@ -1,0 +1,28 @@
+Qubes OS Documentation - OS_Wiki
+
+System Name: Qubes OS
+Kernel: Linux (Xen hypervisor, multiple kernels in isolated VMs)
+Based on: Fedora (primary edition) / Debian (optional templates)
+Created by: Joanna Rutkowska / Invisible Things Lab
+Maintained by: Qubes OS Project and community
+Initial release: April 3, 2012
+Source model: Open source
+License: GPL and other free software licenses
+Architecture support: x86_64 only
+Package manager: DNF (Fedora-based templates), APT (Debian templates)
+Desktop Environment: XFCE (default), KDE Plasma optional
+System type: Desktop / Security-focused workstation
+Target audience: Security-conscious users, privacy-focused professionals, advanced Linux users
+Not recommended for: Beginners, low-end hardware, casual desktop users
+Official site: https://www.qubes-os.org
+ISO size for download: ~4 GB
+
+Minimum requirements:
+- CPU: Intel VT-x or AMD-V with IOMMU support recommended
+- RAM: 4 GB minimum (8 GB+ recommended)
+- Storage: 32 GB minimum (128 GB recommended for multiple VMs)
+- Graphics: Any GPU with VESA/EFI boot support
+- Architecture: x86_64 only
+- Additional: BIOS/UEFI virtualization support must be enabled
+
+Description: Qubes OS is a security-focused Linux distribution designed around the concept of security by compartmentalization. It runs applications in isolated virtual machines (VMs) using the Xen hypervisor to separate tasks and minimize attack surfaces. Users can create multiple templates (Fedora, Debian) for their VMs while keeping sensitive data isolated. Qubes OS is intended for advanced users who prioritize privacy, security, and control, providing a powerful but resource-demanding desktop operating system.
