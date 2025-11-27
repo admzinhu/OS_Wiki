@@ -1,21 +1,21 @@
 # Arch Linux Documentation - OS_Wiki
 
 System Name: Arch Linux
-Kernel: Linux (Rolling release, latest kernel)
+Kernel: Linux (rolling release, latest kernel)
 Based on: Nothing (independent)
-Created by: Judd Vinet (initially for i686 arch)
+Created by: Judd Vinet (initially for the i686 architecture)
 Maintained by: Arch Linux Community
 Initial release: 2002
 Source model: Open source
-License: Mostly GPL/0BSD
-Architecture support: x86_64 (amd64) official support. Unofficial support with ARM and i686 (32-bit)
-Package manager: Pacman (Binary), created by Judd Vinet
-Desktop Environment: Any (CLI install)
-System type: Desktop/Workstation
-Target audience: Advanced users, power users, rolling release enthusiasts and technology students.
-Not recommended for: begginers that use Windows or don't have experience with computers, those who want something ready-made and plug-and-play.
+License: GPL / 0BSD
+Architecture support: x86_64 (amd64) official support; unofficial ARM and i686 (32-bit) support
+Package manager: Pacman (binary), created by Judd Vinet
+Desktop Environment: Any (CLI installation)
+System type: Desktop
+Target audience: Advanced users, power users, rolling-release enthusiasts, and technology students.
+Not recommended for: Beginners, people coming from Windows with no computer experience, and those who want a ready-made, plug-and-play system.
 Official site: https://archlinux.org/
-ISO size for download: 1,4 GB (Latest Version)
-Description: Independent Linux distribution, created initially by Judd Vinet. Installation is done manually using only the terminal (command line). 
-It is recommended for users who want to build a system completely made by themselves and highly customizable. It follows the KISS and DIY philosophies, which stand for, respectively, Keep It Simple Stupid and Do It Yourself. 
-Uses Pacman as a binary package manager. It doesn't have a default desktop environment, as the installation is done from scratch via terminal, so it's up to you to decide.
+ISO size for download: ~1.4 GB (latest version)
+Description: Arch Linux is an independent Linux distribution, originally created by Judd Vinet. Installation is performed manually using only the terminal (command line).
+It is recommended for users who want to build a fully customized system by themselves. Arch follows the KISS and DIY philosophies, which stand for Keep It Simple, Stupid and Do It Yourself, respectively.
+It uses Pacman as its binary package manager. It does not have a default desktop environment, as installation is done from scratch via the terminal — the choice is up to the user.
