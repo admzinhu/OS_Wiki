@@ -1,0 +1,26 @@
+Debian Documentation - OS_Wiki
+
+System Name: Debian
+Kernel: Linux (monolithic kernel)
+Based on: Independent (Unix-like)
+Created by: Ian Murdock
+Maintained by: Debian Project
+Initial release: August 16, 1993
+Source model: Open source
+License: Mainly GPL and other free software licenses
+Architecture support: x86_64, IA-32, ARM, PowerPC, MIPS, s390x, and others
+Package manager: APT (dpkg), supported via Synaptic, apt-get, and other frontends
+Desktop Environment: Any (CLI installation; desktops include GNOME, KDE, Xfce, LXQt, Cinnamon, MATE)
+System type: Desktop / Server / Workstation
+Target audience: Experienced Linux users, system administrators, developers, servers
+Not recommended for: Absolute beginners who want out-of-the-box GUI and easy installation without reading documentation
+Official site: https://www.debian.org
+ISO size for download: ~3 GB (netinstall and full editions vary)
+Minimum requirements:
+- CPU: 1 GHz processor
+- RAM: 512 MB minimum (1 GB recommended for graphical desktop)
+- Storage: 10 GB minimum for base system (more for desktop)
+- Graphics: any supported GPU for GUI (optional)
+- Architecture: varies by build; x86_64 is recommended for modern PCs
+
+Description: Debian is a universal Linux distribution known for its stability, security, and vast software repository. It is community-driven and independent, supporting a wide range of hardware architectures. Debian can be installed with only a command-line interface, allowing users to customize the system fully. Desktop environments are optional, and package management is handled through APT. Debian is ideal for servers, desktops, and advanced users who prioritize reliability and control.
