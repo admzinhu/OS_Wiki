@@ -1,0 +1,26 @@
+TempleOS Documentation - OS_Wiki
+
+System Name: TempleOS
+Kernel: Custom / x86-64 real mode kernel
+Based on: Independent
+Created by: Terry A. Davis
+Maintained by: No active official maintainers (community support exists)
+Initial release: November 2013
+Source model: Open source
+License: Public domain (essentially free for any use)
+Architecture support: x86_64 (64-bit only)
+Package manager: None (software distributed as source / executables within TempleOS)
+Desktop Environment: TempleOS graphical interface (custom, integrated shell)
+System type: Desktop / Experimental
+Target audience: Hobbyists, programmers, enthusiasts of retro or experimental OS design
+Not recommended for: General users, modern productivity or gaming, networked environments
+Official site: http://templeos.holyc.xyz
+ISO size for download: ~200 MB
+Minimum requirements:
+- CPU: x86_64-compatible processor
+- RAM: 512 MB minimum (1 GB recommended)
+- Storage: 500 MB minimum (for base system)
+- Graphics: Basic VGA-compatible display
+- Architecture: x86_64 only
+
+Description: TempleOS is a lightweight, independent operating system created entirely by Terry A. Davis as a personal, religious, and programming-oriented OS. It runs in 64-bit x86 architecture with a custom kernel and includes its own programming language (HolyC), integrated shell, and graphical interface. TempleOS is designed to be simple and retro-inspired, without modern OS features such as networking or multitasking. It is primarily used for experimentation, programming, and studying unconventional OS design.
